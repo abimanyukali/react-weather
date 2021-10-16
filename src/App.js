@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./App.css";
 import Inputer from "./component/input";
 import axios from "axios";
 import Result from "./component/Result";
